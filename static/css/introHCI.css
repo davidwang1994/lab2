@@ -34,6 +34,11 @@ body {
 }
 
 /* Styles added by me */
-.project {
-
+p {
+    font-variant: small-caps;
 }
+
+#project1 {
+    font-variant: small-caps;
+}
+
